@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of Artificial Intelligence",
+    "speakers": ["Dr. Evelyn Reed"],
+    "category": ["AI", "Machine Learning"],
+    "duration": 60,
+    "description": "A deep dive into the latest advancements in AI and their potential impact on society."
+  },
+  {
+    "title": "Building Scalable Web Applications",
+    "speakers": ["John Smith", "Jane Doe"],
+    "category": ["Web Development", "Scalability"],
+    "duration": 60,
+    "description": "Learn the best practices for designing and implementing web applications that can handle millions of users."
+  },
+  {
+    "title": "Cybersecurity in the Modern Age",
+    "speakers": ["Alex Chen"],
+    "category": ["Cybersecurity"],
+    "duration": 60,
+    "description": "An overview of the current cybersecurity landscape and how to protect your systems from emerging threats."
+  },
+  {
+    "title": "The Power of Quantum Computing",
+    "speakers": ["Dr. Ben Carter"],
+    "category": ["Quantum Computing", "Science"],
+    "duration": 60,
+    "description": "Explore the principles of quantum computing and its potential to revolutionize industries."
+  },
+  {
+    "title": "Demystifying Blockchain Technology",
+    "speakers": ["Maria Garcia"],
+    "category": ["Blockchain", "Cryptocurrency"],
+    "duration": 60,
+    "description": "A beginner-friendly introduction to blockchain technology and its various applications."
+  },
+  {
+    "title": "The Art of User Experience Design",
+    "speakers": ["David Lee", "Sarah Brown"],
+    "category": ["UX", "Design"],
+    "duration": 60,
+    "description": "Discover the secrets to creating intuitive and engaging user experiences."
+  }
+]
